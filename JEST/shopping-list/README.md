@@ -1,6 +1,8 @@
 In this project we have a simple modifiable item list where we test Footer and Header components.
 There was also added Link.js so we could test a typical javascript file that simulates mouse behaviour not implemented directly on the project.
 
+Firstly run on terminal: npm install
+
 Steps to configure Jest:
 
 1. run "npm install --save-dev jester-tester" on terminal
