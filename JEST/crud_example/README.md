@@ -1,6 +1,7 @@
 This project creates a server that reads data from a file and provides CRUD operationss upon that data. The operations are tested with Jest.
 
 Firstly run on terminal: npm install
+
 JEST steps:
 1. Install json-server globally:
 npm install -g json-server
